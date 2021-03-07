@@ -6,7 +6,6 @@ const bubbleSort = function BubbleSort(list)
 {
 	let arrayToSort = list
 	let sortedList = []											//empty list to store sorted elements
-	
 	const sortedArray = function sortRec(arrayToSort)			//function for recursion
 	{
 		if(arrayToSort.length == 0)								//recursion ends when arrayToSort is empty
