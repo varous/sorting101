@@ -1,2 +1,2 @@
 # sorting101
- All basic sorting algorithms written in JavaScript
+Basic sorting algorithms written in JavaScript
